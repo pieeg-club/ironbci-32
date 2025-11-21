@@ -8,9 +8,9 @@ ironbci-32 integrates four 8-channel AD7771 analog-to-digital converters (ADCs),
 
 
 #### Alpha rhythm test (eyes closed and open) 
-Dry Electrodes Ag/AgCl, without Gel. Orange line high - eyes closed, Orange line down - eyes open          
-Raw data, 250 samples per second       
-![alt tag](https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbc_32_alpha.png "general view")  
+Dry Electrodes Ag/AgCl, without Gel. With eyes closed and eyes open            
+Raw data, 250 samples per second         
+![alt tag](https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbc_32_alpha.png "general view")    
   
 
 #### Contacts     
