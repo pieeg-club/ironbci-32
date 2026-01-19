@@ -13,6 +13,10 @@ Raw data, 250 samples per second
 ![alt tag](https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbc_32_alpha.png "general view")    
   
 
+#### Software    
+ironbci-32 integrated to [Brainflow Library](https://brainflow.readthedocs.io/en/stable/SupportedBoards.html#ironbci)    
+
+
 #### Contacts     
 https://pieeg.com/   
 pieeg@pieeg.com  
