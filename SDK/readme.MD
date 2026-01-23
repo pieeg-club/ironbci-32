@@ -1,4 +1,6 @@
-ironbci-32 integrated to [Brainflow Library](https://brainflow.readthedocs.io/en/stable/SupportedBoards.html#ironbci)    
+ironbci-32 integrated to [Brainflow Library](https://brainflow.readthedocs.io/en/stable/SupportedBoards.html#ironbci)      
+Brainflow [Slack](https://brainflow.org/2020-03-23-slack/) for questions    
+
 
 In this folder some examples how oeprate with Brainflow library
 
