@@ -70,7 +70,7 @@ def main():
     parser.add_argument('--other-info', type=str, default='')
     parser.add_argument('--streamer-params', type=str, default='')
     parser.add_argument('--serial-number', type=str, default='')
-    parser.add_argument('--board-id', type=int, default=BoardIds.IRONBBCI_32_BOARD)  
+    parser.add_argument('--board-id', type=int, default=BoardIds.IRONBCI_32_BOARD)  
     parser.add_argument('--file', type=str, default='')
     args = parser.parse_args()
 
