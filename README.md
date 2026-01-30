@@ -15,7 +15,8 @@ Raw data, 250 samples per second
   
 
 #### Software    
-ironbci-32 integrated to [Brainflow Library](https://brainflow.readthedocs.io/en/stable/SupportedBoards.html#ironbci)    
+ironbci-32 integrated to [Brainflow Library](https://brainflow.readthedocs.io/en/stable/SupportedBoards.html#ironbci)      
+Manual in [Doc](https://pieeg.com/docs/docs/ironbci-32/)  
 
 #### Warnings
 >[!WARNING]
