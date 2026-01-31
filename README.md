@@ -7,6 +7,10 @@ ironbci-32 integrates four 8-channel AD7771 analog-to-digital converters (ADCs),
 <img src="https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbci32.png" alt="general view" title="general view" width="60%" height="30%">  
 
 
+#### Electrodes Connection  
+
+https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbci_connection.jpg
+
 
 #### Alpha rhythm test (eyes closed and open) 
 Dry Electrodes Ag/AgCl, without Gel. With eyes closed and eyes open            
