@@ -1,4 +1,4 @@
-# ironbci-32
+# ironbci-32 Low-Cost device to read 32 EEG ch   
 # Available in the [market](https://www.elecrow.com/ironbci-32.html)  
 ironbci-32 is a 32-channel, 24-bit EEG acquisition system.  
 
