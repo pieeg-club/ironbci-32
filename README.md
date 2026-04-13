@@ -9,8 +9,7 @@ ironbci-32 integrates four 8-channel AD7771 analog-to-digital converters (ADCs),
 
 
 #### Electrodes Connection  
-<img src="https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbci_connection.jpg
-" alt="general view" title="general view" width="60%" height="30%">  
+<img src="https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbci_connection.jpg" alt="general view" title="general view" width="60%" height="30%">  
 
 
 
