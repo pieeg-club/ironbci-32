@@ -24,7 +24,7 @@ Raw data, 250 samples per second
 
 
 
-GUI - real-time 
+GUI - real-time in Brainflow     
 <img src="https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbci_32_brainflow.png" alt="general view" title="general view" width="60%" height="30%">  
 
   
