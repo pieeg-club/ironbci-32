@@ -23,6 +23,12 @@ Raw data, 250 samples per second
 ![alt tag](https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbc_32_alpha.png "general view")    
 
 
+
+GUI - real-time 
+<img src="https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbci_32_brainflow.png" alt="general view" title="general view" width="60%" height="30%">  
+
+  
+
 #### Warnings
 >[!WARNING]
 > You are fully responsible for your personal decision to purchase this device and, ultimately, for its safe use. ironbci-32 is not a medical device and has not been certified by any government regulatory agency for use with the human body. Use it at your own risk.  
