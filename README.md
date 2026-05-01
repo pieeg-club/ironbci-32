@@ -4,6 +4,9 @@ ironbci-32 is a 32-channel, 24-bit EEG acquisition system.
 YouTube [Demo](https://youtu.be/HehUNOKghSM)
 
 #### Software    
+ironbci-32included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-server), PiEEG-Server Software [Doc](https://pieeg-server-doc.vercel.app/)   
+<img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
+
 ironbci-32 integrated to [Brainflow Library](https://brainflow.readthedocs.io/en/stable/SupportedBoards.html#ironbci)      
 Manual in [Doc](https://pieeg.com/docs/docs/ironbci-32/)    
 
