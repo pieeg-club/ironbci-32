@@ -9,6 +9,10 @@ ironbci-32included to [PiEEG-Server software](https://github.com/pieeg-club/PiEE
 
 ironbci-32 integrated to [Brainflow Library](https://brainflow.readthedocs.io/en/stable/SupportedBoards.html#ironbci)      
 Manual in [Doc](https://pieeg.com/docs/docs/ironbci-32/)    
+GUI - real-time in Brainflow     
+<img src="https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbci_32_brainflow.png" alt="general view" title="general view" width="60%" height="30%">  
+
+
 
 ironbci-32 integrates four 8-channel AD7771 analog-to-digital converters (ADCs), each with ultra-low-noise sources and references (measured at less than 0.22 μV), ensuring highly accurate signal capture. At its core is the STM32H7 ARM Cortex-M7 microcontroller, which not only manages data collection but also performs real-time pre-processing for optimal performance. With its remarkable sensitivity and robust architecture, ironbci-32 delivers reliable, high-quality EEG data and supports a broad range of advanced biosignal acquisition applications  
 
@@ -26,11 +30,6 @@ Raw data, 250 samples per second
 ![alt tag](https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbc_32_alpha.png "general view")    
 
 
-
-GUI - real-time in Brainflow     
-<img src="https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbci_32_brainflow.png" alt="general view" title="general view" width="60%" height="30%">  
-
-  
 
 #### Warnings
 >[!WARNING]
