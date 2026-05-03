@@ -7,8 +7,8 @@ YouTube [Demo](https://youtu.be/HehUNOKghSM)
 ironbci-32included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-server), PiEEG-Server Software [Doc](https://pieeg-server-doc.vercel.app/)   
 
 pip install pieeg-server[ironbci32]  
-pieeg-server --device ironbci32 --serial-port /dev/ttyACM0   # Linux/macOS  
-pieeg-server --device ironbci32 --serial-port COM3           # Windows  
+pieeg-server --device ironbci32 --serial-port /dev/ttyACM0   # Linux/macOS    
+pieeg-server --device ironbci32 --serial-port COM6           # Windows indicate COM   
 
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
 
