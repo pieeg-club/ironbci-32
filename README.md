@@ -44,6 +44,8 @@ Raw data, 250 samples per second
 > The device (and all connected equipment as laptop) must operate only from a battery - 5 V. Complete isolation from the mains power is required! The device MUST not be connected to any kind of mains power, via USB or otherwise.   
 > Power supply - only battery 5V. Read Datasheet/Doc and Liability 
 
+Thank you to [Dmitry](https://github.com/dmitry-sukhoruchkin) for this project  
+
 #### Contacts     
 https://pieeg.com/   
 pieeg@pieeg.com  
