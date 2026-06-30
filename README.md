@@ -35,6 +35,12 @@ Raw data, 250 samples per second
 ![alt tag](https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbc_32_alpha.png "general view")    
 
 
+#### PCB fabrication  details   
+Dims: 70mm x 70mm  
+Layers: 4  
+Thickness: 1.6mm   
+Material: FR4  
+
 
 #### Warnings
 >[!WARNING]
