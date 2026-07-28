@@ -1,5 +1,5 @@
 # ironbci-32 Low-Cost device to read 32 EEG ch   
-# Available in the [market](https://www.elecrow.com/ironbci-32.html)  
+
 ironbci-32 is a 32-channel, 24-bit EEG acquisition system.  
 YouTube [Demo](https://youtu.be/HehUNOKghSM)  
 3D printer Boxes in PiEEG [Thingiverse](https://www.thingiverse.com/PiEEG/designs)          
@@ -52,6 +52,8 @@ Material: FR4
 > Power supply - only battery 5V. Read Datasheet/Doc and Liability 
 
 Thank you to [Dmitry](https://github.com/dmitry-sukhoruchkin) to support this project    
+
+Available in the [market](https://www.elecrow.com/ironbci-32.html)  
 
 #### Contacts     
 https://pieeg.com/   
