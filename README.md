@@ -16,7 +16,7 @@ pieeg-server --device ironbci32 --serial-port COM6           # Windows indicate 
 ironbci-32 integrated to [Brainflow Library](https://brainflow.readthedocs.io/en/stable/SupportedBoards.html#ironbci)      
 Manual in [Doc](https://pieeg.com/docs/docs/ironbci-32/)    
 GUI - real-time in Brainflow     
-<img src="https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbci_32_brainflow.png" alt="general view" title="general view" width="60%" height="30%">  
+<img src="https://github.com/pieeg-club/ironbci-32/blob/main/images/ironbci_32_brainflow.png" alt="general view" title="general view" width="60%" height="60%">  
 
 
 
